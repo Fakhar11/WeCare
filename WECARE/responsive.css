@@ -1,0 +1,25 @@
+@media(min-width:400px){
+    .responsive{
+
+    display: inline-block;
+    width: 300px;
+    border: 1px solid black;
+    }
+
+}
+
+
+@media(min-width: 800px){
+.responsive{
+
+display: block;
+width: 500px;
+border: 1px solid black;
+}
+}
+
+
+.forline{
+
+border: 1px solid black;
+}
